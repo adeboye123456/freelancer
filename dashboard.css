@@ -315,7 +315,116 @@ body {
 .third1{
     background-color: white;
     width: 750px;
-    height: 360px;
+    height: 1100px;
     border-radius: 2px;
     box-shadow:rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.image5 img{
+    width: 50px;
+}
+.matt3{
+    margin: -18px 0 0 0;
+    font-size: 13px;
+}
+.matt3 span:nth-child(1){
+    font-size: 13px;
+}
+.image6 img{
+    width: 20px;
+}
+.image6 p{
+    font-size: 15px;
+}
+.study p{
+    font-size: 15px;
+  
+}
+.rob p{
+    font-size: 15px;
+}
+.unleash p{
+    font-size: 15px;
+}
+.image7 img{
+    width: 300px;
+}
+.likes4 span:nth-child(1){
+    font-size: 15px;
+}
+.likes4 span:nth-child(2){
+    font-size: 14px;
+}
+.likes4 span:nth-child(3){
+    padding: 0 0 0 12px;
+    font-size: 16px;
+}
+.likes4 span:nth-child(4){
+    font-size: 18px;
+    padding: 0 0 0 12px;
+}
+.likes4 span:nth-child(5){
+    font-size: 13px;
+    padding: 0 0 0 9px;
+}
+.image8 img{
+    width: 50px;
+}
+.ari{
+    font-size: 15px;
+}
+.ari span:nth-child(1){
+    font-weight:600 ;
+}
+.likes5 span:nth-child(1){
+    font-size: 15px;
+}
+
+.likes5 span:nth-child(2){
+    padding: 0 0 0 12px;
+    font-size: 16px;
+}
+.likes5 span:nth-child(3){
+    font-size: 18px;
+    padding: 0 0 0 12px;
+}
+.likes5 span:nth-child(4){
+    font-size: 13px;
+    padding: 0 0 0 9px;
+}
+.pad{
+    padding: 30px  0 0 0;
+}
+.set{
+width: 370px;
+}
+.radius{
+    width: 370px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: grey;
+}
+.radius1{
+    width: 150px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #4783D2;
+}
+.address button{
+    border: 1px solid rgb(235, 25, 60);
+    padding: 20px;
+    width: 370px;
+    background-color: transparent;
+    border-radius: 3px;
+    height: 70px;
+}
+.address:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: 10s ease-in 1.ms;
+}
+.circle{
+    color:rgb(235, 25, 60) ;
+}
+.image9 img{
+    width: 25PX;
+    margin-bottom: 16px;
 }
