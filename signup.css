@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+    width: 100%;
+    height: 135vh;
+   padding-top: 18px;
+    
+}
+
+.background{
+    width: 32%;
+    height: 100%;
+    /* background-color: blue; */
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 50px 30px 0 30px;
+}
+.freela {
+    text-align: center;
+}
+
+.freela img {
+    width: 200px;
+}
+
+.freela h1 {
+    font-size: 20px;
+    color: black;
+    font-weight: 700;
+    padding-top: 15px;
+}
+
+.google {
+    text-align: center;
+}
+
+.google img {
+    width: 20px;
+}
+
+.google button {
+    padding: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.26);
+    border-radius: 4px;
+    background-color: transparent;
+    width: 99%;
+    padding: 10px 77px 10px 15px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #3C4043;
+    margin: 35px 0 0 0;
+}
+
+.facebook {
+    text-align: center;
+    margin: auto;
+}
+
+.facebook img {
+    width: 20px;
+}
+
+.facebook button {
+    padding: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.26);
+    border-radius: 4px;
+    background-color: transparent;
+    width: 99%;
+    padding: 10px 70px 10px 15px;
+    color: #3C4043;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 20px 0 0 0;
+}
+.google:hover{
+    background-color: rgba(0, 0, 255, 0.023);
+}
+.facebook:hover{
+    background-color: rgba(0, 0, 255, 0.023);
+}
+hr{
+    width: 45%;
+}
+.or{
+    margin: 20px  0 0 0;
+}
+.or p{
+    margin: 0 5px;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 0 10px;
+}
+.firstn{
+    gap: 15px;
+}
+.firstn input{
+    width:48%;
+    padding: 10px 15px 10px 15px;
+    outline: none;
+    border: 1px solid rgba(128, 128, 128, 0.26);
+    border-radius: 4px;
+    margin: 20px 0 0 0;
+}
+.firstn input:hover{
+    border: 1px solid rgba(0, 0, 255, 0.322);
+}
+.email input{
+    width: 99%;
+    padding: 10px 70px 10px 15px;
+    outline: none;
+    border: 1px solid rgba(128, 128, 128, 0.26);
+    border-radius: 4px;
+    margin: 20px 0 0 0;
+}
+.email input:nth-child(2){
+    margin: 35px 0 0 0 ;
+}
+.email input:hover{
+    border: 1px solid rgba(0, 0, 255, 0.322);
+}
+.remember{
+    margin: 30px 0 0 0;
+}
+.agree{
+    font-size: 14px;
+}
+.don{
+    font-size: 14px;
+}
+hr{
+    width: 100%;
+}
+.log a{
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
